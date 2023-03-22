@@ -1,0 +1,18 @@
+
+{
+    "apple": {
+        "quantity": 10,
+        "expiration_date": "2022-04-01",
+        "location": "fridge"
+    },
+    "banana": {
+        "quantity": 5,
+        "expiration_date": "2022-03-25",
+        "location": "fruit bowl"
+    },
+    "orange": {
+        "quantity": 3,
+        "expiration_date": "2022-03-28",
+        "location": "fridge"
+    }
+}
