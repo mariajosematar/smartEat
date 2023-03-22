@@ -1,6 +1,4 @@
-###
-
-Identify a current global problem in 2023 that can be solved with python development alone. 
+## Identify a current global problem in 2023 that can be solved with python development alone. 
 Make sure your idea is viable and has the potential to be profitable:
 
 ###
@@ -13,8 +11,10 @@ Additionally, the system could suggest recipes based on the ingredients availabl
 This system has the potential to be profitable as it could be marketed to households, restaurants, and other food service businesses. By reducing food waste and promoting more efficient food management, businesses could save money on their food costs and reduce their environmental impact. The system could be sold as a subscription service, with different pricing tiers based on the number of users and the features offered.
 Overall, developing a smart food management system using Python has the potential to be a profitable solution to the global problem of food waste.
 
-##
+#
 Here's a step-by-step guide to developing a smart food management system using Python:
+##
+
 Backend Development:
 1. Define the data structure: Define the data structure that will store information about the food inventory. This may include attributes such as food name, quantity, expiration date, and location.
 2. Build the database: Build a database to store the inventory data. You can use a relational database such as MySQL or a NoSQL database such as MongoDB.
