@@ -1,6 +1,4 @@
-## Identify a current global problem in 2023 that can be solved with python development alone. 
-Make sure your idea is viable and has the potential to be profitable:
-
+## Identify a current global problem in 2023 that can be solved with python development. 
 ###
 - One current global problem in 2023 that can be solved with Python development alone is the issue of food waste. 
 According to the United Nations, approximately one-third of all food produced in the world is lost or wasted each year, which amounts to about 1.3 billion tons of food. 
