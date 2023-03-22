@@ -4,12 +4,9 @@
 
 ###
 - One current global problem in 2023 that can be solved with Python development alone is the issue of food waste. 
-- According to the United Nations, approximately one-third of all food produced in the world is lost or wasted each year, which amounts to about 1.3 billion tons of food. 
-- This is a major problem not only in terms of food security but also in terms of environmental sustainability.
-- To tackle this problem, a potential solution is to develop a smart food management system that can help households and businesses track their food inventory, expiration dates, and consumption patterns. 
+- According to the United Nations, approximately one-third of all food produced in the world is lost or wasted each year, which amounts to about 1.3 billion tons of food. This is a major problem not only in terms of food security but also in terms of environmental sustainability. To tackle this problem, a potential solution is to develop a smart food management system that can help households and businesses track their food inventory, expiration dates, and consumption patterns. 
 - This system could be developed using Python, which is a powerful programming language for data analysis and machine learning.
-- The system would work by allowing users to input information about the food items they have in their inventory, including the type of food, the expiration date, and the quantity. 
-- Using machine learning algorithms, the system could then predict when each item is likely to expire and send notifications to users reminding them to consume or donate the food before it goes bad.
+- The system would work by allowing users to input information about the food items they have in their inventory, including the type of food, the expiration date, and the quantity. Using machine learning algorithms, the system could then predict when each item is likely to expire and send notifications to users reminding them to consume or donate the food before it goes bad.
 - Additionally, the system could suggest recipes based on the ingredients available in the inventory, reducing the likelihood of food waste and promoting healthier eating habits. 
 - The system could also generate reports on food consumption patterns, allowing users to identify areas where they can reduce waste and save money.
 - This system has the potential to be profitable as it could be marketed to households, restaurants, and other food service businesses. By reducing food waste and promoting more efficient food management, businesses could save money on their food costs and reduce their environmental impact. 
