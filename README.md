@@ -13,7 +13,7 @@
 - The system could be sold as a subscription service, with different pricing tiers based on the number of users and the features offered.
 Overall, developing a smart food management system using Python has the potential to be a profitable solution to the global problem of food waste.
 
-#Backend Development:
+# Backend Development:
 ###
 1. Define the data structure: Define the data structure that will store information about the food inventory. This may include attributes such as food name, quantity, expiration date, and location.
 2. Build the database: Build a database to store the inventory data. You can use a relational database such as MySQL or a NoSQL database such as MongoDB.
@@ -22,7 +22,7 @@ Overall, developing a smart food management system using Python has the potentia
 5. Schedule notifications: Schedule notifications to remind users to eat or donate the food before it spoils. You can use a scheduling library such as APScheduler to trigger the notifications.
 6. Generate reports: Develop a reporting system that generates reports on food consumption patterns. You can use a library such as pandas to analyze the inventory data and generate the reports.
 
-#Frontend Development:
+# Frontend Development:
 ###
 1. Design the user interface: Design a user-friendly interface that allows users to input and view inventory data, recipes, and reports. You can use a frontend framework such as React or Vue.js to build the user interface.
 2. Integrate the backend and frontend: Integrate the backend API with the frontend interface so that users can interact with the system seamlessly.
