@@ -33,4 +33,5 @@ Overall, developing a smart food management system using Python has the potentia
 7. Deploy the system: Deploy the system to a cloud-based platform such as AWS or Google Cloud Platform so that it can be accessed by users from anywhere.
 8. Monitor the system: Monitor the system for performance and security issues and make necessary updates to improve the system.
 
-In conclusion, developing a smart food management system using Python has the potential to be a profitable and sustainable solution to the global problem of food waste. By reducing food waste and promoting more efficient food management, this system can contribute to a more sustainable and equitable food system.
+In conclusion, developing a smart food management system using Python has the potential to be a profitable and sustainable solution to the global problem of food waste. 
+By reducing food waste and promoting more efficient food management, this system can contribute to a more sustainable and equitable food system.
