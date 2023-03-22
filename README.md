@@ -1,4 +1,4 @@
-# Identify a current global problem in 2023 that can be solved with python development. 
+# Identify a current global problem that can be solved with python development. 
 
 ## Here's a step-by-step guide to developing a smart food management system using Python:
 
