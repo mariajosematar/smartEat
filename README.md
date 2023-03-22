@@ -1,4 +1,4 @@
-####
+
 
 Identify a current global problem in 2023 that can be solved with python development alone. 
 Make sure your idea is viable and has the potential to be profitable:
